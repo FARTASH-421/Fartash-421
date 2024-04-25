@@ -16,7 +16,6 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
         <tr>
             <th>نام</th>
             <th>شماره تماس</th>
-            <th>ایمیل آدرس</th>
         </tr>
         <tr>
             <td>099926067519</td>
