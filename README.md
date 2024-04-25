@@ -18,7 +18,7 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
       <td>- 📫 How to reach me: 
         <a href="https://linkedin.com/in/fartash421">
           linkedin -> artash421
-          <\a>
+        </a>
       </td>
   </tr>
         
