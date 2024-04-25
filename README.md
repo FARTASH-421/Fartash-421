@@ -6,12 +6,7 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,flutter,git,idea,java,py"/>
   </a>
 </p>
-<table style="border: 2px solid rgb(231, 4, 4);
-        width: 100%;
-        text-align: center;
-        border-radius: 20px;
-        background-color: rosybrown;
-        padding: 5px;">
+<table>
   <tr>
     <td> <img src="https://skillicons.dev/icons?i=gmail"/></td>
     <td>
