@@ -1,4 +1,4 @@
-### Hello there , It's Fartash 👋
+### Hello there , It's ✨ _Fartash_ ✨ 👋
 just a senior computer engineering student who loves studying  ```AI and Deep Learning``` , enjoys learning about ```Cyber Security``` , ```Data Encryption``` and ```Data Analysis``` and likes coding so much.
 
 <p align="center">
