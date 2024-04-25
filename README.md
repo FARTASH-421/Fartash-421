@@ -10,14 +10,14 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
   <tr>
     <td> <img src="https://skillicons.dev/icons?i=gmail"/></td>
     <td>
-      - 📫 How to reach me: <a href="mailto:aq.fartash.421@outlook.com">AQ.FARTASH.421@outlook.com</a>
+      - 📫 How to reach me: <a href="mailto:aq.fartash.421@outlook.com">Aq.Fartash.421@outlook.com</a>
     </td>
   </tr>
   <tr>
      <td> <img src="https://skillicons.dev/icons?i=linkedin"/></td>
       <td>- 📫 How to reach me: 
         <a href="https://linkedin.com/in/fartash421">
-          linkedin -> artash421
+          Linkedin -> Fartash421
         </a>
       </td>
   </tr>
