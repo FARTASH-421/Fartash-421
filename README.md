@@ -15,7 +15,11 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
   </tr>
   <tr>
      <td> <img src="https://skillicons.dev/icons?i=linkedin"/></td>
-      <td>- 📫 How to reach me: https://linkedin.com/in/fartash421</td>
+      <td>- 📫 How to reach me: 
+        <a href="https://linkedin.com/in/fartash421">
+          linkedin -> artash421
+          <\a>
+      </td>
   </tr>
         
   
