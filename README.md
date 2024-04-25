@@ -9,7 +9,9 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
 <table>
   <tr>
     <td> <img src="https://skillicons.dev/icons?i=gmail"/></td>
-    <td>- 📫 How to reach me: <a herf="mailto: aq.fartash.421@outlook.com">AQ.FARTASH.421@outlook.com</a></td>
+    <td>
+      - 📫 How to reach me: <a href="mailto:aq.fartash.421@outlook.com">AQ.FARTASH.421@outlook.com</a>
+    </td>
   </tr>
   <tr>
      <td> <img src="https://skillicons.dev/icons?i=linkedin"/></td>
