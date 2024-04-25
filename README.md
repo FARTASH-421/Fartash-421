@@ -6,26 +6,11 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,flutter,git,idea,java,py"/>
   </a>
 </p>
-
+      <img src="https://skillicons.dev/icons?i=email"/>
 - 📫 How to reach me: FARTASH.421@outlook.com
 
-
-
-
- <table>
-        <tr>
-            <td>099926067519</td>
-           <td>
-              <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=fartash-421&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-           </td>      
-        </tr>
-        <tr>
-            <td>09926067529</td>
-             <td>
-                <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fartash-421&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-             </td>
-        </tr>
-    </table>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=fartash-421&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fartash-421&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negarhonarvar&hide_progress=true&theme=highcontrast)](https://github.com/negarhonarvar?tab=repositories)
                       
