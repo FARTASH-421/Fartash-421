@@ -6,7 +6,7 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,flutter,git,idea,java,py"/>
   </a>
 </p>
-      <img src="https://skillicons.dev/icons?i=email"/>
+      <img src="https://skillicons.dev/icons?i=gmail"/>
 - 📫 How to reach me: FARTASH.421@outlook.com
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=fartash-421&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
