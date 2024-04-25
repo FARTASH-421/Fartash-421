@@ -3,7 +3,7 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
 
 <p align="center">
   <a href="https://github.com/Fartash-421/Computer-architecture-">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,flutter,git,idea,java,matlab,py"/>
+    <img src="https://skillicons.dev/icons?i=html,c,cpp,flutter,git,idea,java,matlab,py"/>
   </a>
 </p>
 
