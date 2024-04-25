@@ -9,7 +9,14 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
 <table>
   <tr>
     <td> <img src="https://skillicons.dev/icons?i=gmail"/></td>
-    <td>- 📫 How to reach me: FARTASH.421@outlook.com</td></tr>
+    <td>- 📫 How to reach me: FARTASH.421@outlook.com</td>
+  </tr>
+  <tr>
+     <td> <img src="https://skillicons.dev/icons?i=linkedin"/></td>
+      <td>- 📫 How to reach me: https://linkedin.com/in/fartash421</td>
+  </tr>
+        
+  
 </table>
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=fartash-421&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
