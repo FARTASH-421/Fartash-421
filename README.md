@@ -26,7 +26,7 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
 </table>
 
 
-    <a href="#">
+  <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=fartash-421&theme=blueberry&show_icons=true&count_private=true&hide_border=true&line_height=20&rank_icon=percentile" alt="GitHub Stats" />
   </a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fartash-421&show_icons=true&rank_icon=github&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
